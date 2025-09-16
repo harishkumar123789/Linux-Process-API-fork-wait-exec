@@ -90,7 +90,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="807" height="430" alt="Screenshot 2025-09-16 152538" src="https://github.com/user-attachments/assets/742cda05-877c-4530-b74f-c15b157d7d68" />
+<img width="797" height="358" alt="image" src="https://github.com/user-attachments/assets/b7671f8d-eb98-494d-9580-4e219208f4b0" />
+
 
 # RESULT:
 The programs are executed successfully.
